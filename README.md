@@ -1,2 +1,2 @@
 # spring-data-elasticsearch-examples
-examples for getting started with spring data elasticsearch
+example for getting started with spring data elasticsearch
